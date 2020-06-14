@@ -9,12 +9,12 @@ In this machine learning project, I explored three different machine learning mo
 
 ## [2. Digit Classification](https://github.com/emdezla/DeepLearning/tree/master/ConvolutionalNNs)
 
-The objective of this project was to test different neural network architectures to compare two digits using images from MNIST dataset. It aims at showing in particular the impact of weight sharing, and of the use of an auxiliary loss to help the training of the main objective. Pair of images are given as input and the output must predict if the first digit is less or equal to the second for each pair. The code is exclusvely written with Pytorch, no other external libraries are included. 
+The objective of this project was to test different neural network architectures to compare two digits using images from MNIST dataset. It aims at showing in particular the impact of weight sharing, and of the use of an auxiliary loss to help the training of the main objective for convolutional layers. Pair of images are given as input and the output must predict if the first digit is less or equal to the second for each pair. The code is exclusvely written with Pytorch, no other external libraries are included. 
 
 ![](/images/digit_classification.png)
 
 
-## [3. Custom deep learning framework](https://github.com/emdezla/DeepLearning/tree/master/NeuralFramework)
+## [3. Custom Deep Learning framework](https://github.com/emdezla/DeepLearning/tree/master/NeuralFramework)
 
 In this project, a custom mini deep learning framework is coded using Pytorch tensor operations. The idea is to be able to build a complex machine learning model without using Pytorch autograd module. For that reason, every step (feed-forward, back-propagation and parameter optimisation) has to be explecitely computed in the framework. At the end, a neural netowk is trained with the aim of classifyng two-dimensional points and proving that the framework is properly working.
 
@@ -22,6 +22,19 @@ In this project, a custom mini deep learning framework is coded using Pytorch te
 
 
 # Image processing projects
+
+
+# Data Science
+
+
+# Computational Motor Control
+
+
+# Wireless Systems
+
+
+# EXTRA: Covid-19 Pandemic
+
 
 
 
