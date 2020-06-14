@@ -1,5 +1,5 @@
 # Machine learning projects
-##### *Python code, using Tensorflow and Pytorch*
+#### *Python code, using Tensorflow and Pytorch*
 
 ## [1. Road Segmentation](https://github.com/emdezla/projetRoadSegmentation)
 
@@ -23,7 +23,7 @@ In this project, a custom mini deep learning framework is coded using Pytorch te
 
 
 # Image processing projects
-##### *Python code using mostly OpenCV*
+#### *Python code using mostly OpenCV*
 
 # Data Science
 #### *Pyspark code using Hadoop, Pandas, Bokeh and Kafka*
