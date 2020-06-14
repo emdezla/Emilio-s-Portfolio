@@ -4,7 +4,7 @@
 
 In this machine learning project, I explored three different machine learning models (Logistic Regression, Convolutional Neural Network and U-net Neural Network) for implementing a binary classifier on satellite images in order to segment the road. The code is written in Python and the neural networks are defined using the high-level API Keras (Tensorflow). This project has allowed me to learn and put in practice concepts such as feature engineering, data aigmentation, model overfitting and image segmentation. At the end, the U-net neural network was chosen as the best model with a F1 score of 0.9. In the image below, the prediciton of two different nwueral networks are compared. 
 
-![](/images/road_segmentation.png)
+![](/images/road_segmentation.PNG)
 
 
 ## [2. Digit Classification](https://github.com/emdezla/DeepLearning/tree/master/ConvolutionalNNs)
@@ -18,7 +18,7 @@ The objective of this project was to test different neural network architectures
 
 In this project, a custom mini deep learning framework is coded using Pytorch tensor operations. The idea is to be able to build a complex machine learning model without using Pytorch autograd module. For that reason, every step (feed-forward, back-propagation and parameter optimisation) has to be explecitely computed in the framework. At the end, a neural netowk is trained with the aim of classifyng two-dimensional points and proving that the framework is properly working.
 
-![](/images/neural_framework.png)
+![](/images/neural_framework.PNG)
 
 
 # Image processing projects
