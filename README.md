@@ -2,7 +2,7 @@
 
 ## [1. Road Segmentation](https://github.com/emdezla/projetRoadSegmentation)
 
-In this machine learning project, I explored three different machine learning models (Logistic Regression, Convolutional Neural Network and U-net Neural Network) for implementing a binary classifier on satellite images in order to segment the road. The code is written in Python and the neural networks are defined using the high-level API Keras (Tensorflow). This project has allowed me to learn and put in practice concepts such as feature engineering, data aigmentation, model overfitting and image segmentation. At the end, the U-net neural network was chosen as the best model with a F1 score of 0.9. In the image below, the prediciton of two different nwueral networks are compared. 
+In this machine learning project, I explored three different machine learning models (Logistic Regression, Convolutional Neural Network and U-net Neural Network) for implementing a binary classifier on satellite images in order to segment the road. The code is written in Python and the neural networks are defined using the high-level API Keras (Tensorflow). This project has allowed me to learn and put in practice concepts such as feature engineering, data aigmentation, model overfitting and image segmentation. At the end, the U-net neural network was chosen as the best model with a F1 score of 0.9. In the image below, the prediciton of two different neural networks are compared. 
 
 ![](/images/road_segmentation.PNG)
 
