@@ -1,4 +1,5 @@
 # Machine learning projects
+##### *Python code, using Tensorflow and Pytorch*
 
 ## [1. Road Segmentation](https://github.com/emdezla/projetRoadSegmentation)
 
@@ -22,18 +23,22 @@ In this project, a custom mini deep learning framework is coded using Pytorch te
 
 
 # Image processing projects
-
+##### *Python code using mostly OpenCV*
 
 # Data Science
-
+#### *Pyspark code using Hadoop, Pandas, Bokeh and Kafka*
 
 # Computational Motor Control
-
+#### *Python code using PyBullet engine for simulations*
 
 # Wireless Systems
+#### *MatLab code*
 
+# Digital Systems
+#### *VHDL and C Code*
 
 # EXTRA: Covid-19 Pandemic
+#### *Python code using Networkx*
 
 
 
