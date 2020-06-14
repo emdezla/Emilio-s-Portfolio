@@ -44,20 +44,12 @@ In this project, a robust journey planner of the Swiss public transport network 
 # Wireless Systems
 #### *MatLab code*
 
-##[1. Orthogonal Frequency Dvision Muliplexing](https://github.com/emdezla/OFDM_Wireless)
+## [1. Orthogonal Frequency Dvision Muliplexing](https://github.com/emdezla/OFDM_Wireless)
 
 In this project, a simple wireless system is created and analysed by genereting a signal, transmitting it into an acoustic channel using external speakers and receiving it with an external microphone. The idea is to use the numerous advantages of OFDM (Orthogonal Frequency Division Multipexing), expecially its reduced inter Symbol Interference, in order to improve the results of  Single Carrier System.
 
 ![](images/ofdm_explanation.png)
 
-# Image processing projects
-#### *Python code using mostly OpenCV*
-
-# Digital Systems
-#### *VHDL and C Code*
-
-# EXTRA: Covid-19 Pandemic
-#### *Python code using Networkx*
 
 
 
