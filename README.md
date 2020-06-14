@@ -1,6 +1,7 @@
 # Machine learning 
 #### *Python code, using Tensorflow and Pytorch*
 
+
 ## [1. Road Segmentation](https://github.com/emdezla/projetRoadSegmentation)
 
 In this machine learning project, I explored three different machine learning models (Logistic Regression, Convolutional Neural Network and U-net Neural Network) for implementing a binary classifier on satellite images in order to segment the road. The code is written in Python and the neural networks are defined using the high-level API Keras (Tensorflow). This project has allowed me to learn and put in practice concepts such as feature engineering, data aigmentation, model overfitting and image segmentation. At the end, the U-net neural network was chosen as the best model with a F1 score of 0.9. In the image below, the prediciton of two different neural networks are compared. 
@@ -36,6 +37,11 @@ In this project, the natural movement of a salamander is simulated (swimming on 
 #### *Pyspark code using Hadoop, Pandas, Bokeh and Kafka*
 
 ##[1.Robust jorney planner](https://github.com/emdezla/journey_planner)
+
+In this project, a robust journey planner of the Swiss public transport network for the city of Zurich is developed. In other words, we tried to build our own custom "Google Maps" but also taking delay probability into account for prioritasing the less delayed connections. Using the [SBB CFF FFS data] (https://opentransportdata.swiss/en/), we modeled the public transport infrastructure as a graph considering walks, transfers and historical delays of every transportations over 2 years. Our algorithm is able to predict the fastest route to go from A to B in a way to maximize your chances to be on time! Below you can see a snapshot of the interface built with Bokeh
+
+
+
 
 
 
