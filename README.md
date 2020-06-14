@@ -1,4 +1,4 @@
-# Machine learning projects
+# Machine learning 
 #### *Python code, using Tensorflow and Pytorch*
 
 ## [1. Road Segmentation](https://github.com/emdezla/projetRoadSegmentation)
@@ -34,6 +34,8 @@ In this project, the natural movement of a salamander is simulated (swimming on 
 
 # Data Science
 #### *Pyspark code using Hadoop, Pandas, Bokeh and Kafka*
+
+##[1.Robust jorney planner](https://github.com/emdezla/journey_planner)
 
 
 
