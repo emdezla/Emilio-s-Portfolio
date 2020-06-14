@@ -33,7 +33,7 @@ In this project, the natural movement of a salamander is simulated (swimming on 
 # Data Science
 #### *Pyspark code using Hadoop, Pandas, Bokeh and Kafka*
 
-## [1.Robust jorney planner](https://github.com/emdezla/journey_planner)
+## [1. Robust jorney planner](https://github.com/emdezla/journey_planner)
 
 In this project, a robust journey planner of the Swiss public transport network for the city of Zurich is developed. In other words, we tried to build our own custom "Google Maps" but also taking delay probability into account for prioritasing the less delayed connections. Using the [SBB CFF FFS data](https://opentransportdata.swiss/en/), we modeled the public transport infrastructure as a graph considering walks, transfers and historical delays of every transport connection over 2 years. Our algorithm is able to predict the fastest route to go from A to B in a way to maximize your chances to be on time! Below you can see a snapshot of the interface built with Bokeh
 
