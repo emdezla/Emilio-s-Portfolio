@@ -21,6 +21,13 @@ In this project, a custom mini deep learning framework is coded using Pytorch te
 
 ![](/images/neural_framework.PNG)
 
+# Computational Motor Control
+#### *Python code using PyBullet engine for simulations*
+
+## [1. Salamander-Robotica Model](https://github.com/emdezla/SalamanderModel)
+In this project, the natural movement of a salamander is simulated (swimming on water and walking on land). Good results are obtained thanks to the use of Central Pattern Generator model for defining the behaviour of the salamander spine and limb joints.After a fine paramater tuning of magnitudes shuch as amplitude gradient of phase lags, a smooth transition between walking and swimming is obtained.
+
+![](/images/simulation_final.gif)
 
 # Image processing projects
 #### *Python code using mostly OpenCV*
@@ -28,8 +35,7 @@ In this project, a custom mini deep learning framework is coded using Pytorch te
 # Data Science
 #### *Pyspark code using Hadoop, Pandas, Bokeh and Kafka*
 
-# Computational Motor Control
-#### *Python code using PyBullet engine for simulations*
+
 
 # Wireless Systems
 #### *MatLab code*
